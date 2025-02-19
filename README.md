@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on chess and accessibility
 - 📫 How to reach me:  best to use email philipraynor@googlemail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: The Bridgewater Hall will be holding seminars to explore the lyrical depths of the Trout Mask Replica (according to Howard Devoto)
+- ⚡ Fun fact: I play the guitar in my spare time
 
 <!---
 philipraynor/philipraynor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
